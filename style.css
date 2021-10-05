@@ -128,3 +128,7 @@ footer {
     text-align: center;
 }
 
+.owner a {
+    text-decoration: none;
+}
+
