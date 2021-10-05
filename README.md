@@ -3,4 +3,4 @@
 
 Click below to see the magic
 
-[Expelliarmus✨](https://iqbalutomo/github.io/credit-cards)
+[Expelliarmus✨](https://iqbalutomo.github.io/credit-cards/)
